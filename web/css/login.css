@@ -1,0 +1,54 @@
+body {
+    background-color: #B3B4B5;
+}
+.login1 {
+    position: relative;
+    left: 500px;
+    top: 200px;
+
+}
+.login2 {
+    position: relative;
+    left: 116px;
+    top: 180px;
+}
+
+.userName, .userPwd {
+    border: 1px solid #9A9B95;
+    height: 34px;
+    width: 200px;
+    display: inline-block;
+    background-color: #9A9B95;
+    position: relative;
+    left: 100px;
+}
+
+.userName {
+    position: relative;
+    top: 30px;
+    left: -100px;
+}
+
+.userPwd {
+    position: relative;
+    top: 85px;
+    left: -304px;
+}
+
+label {
+    position: relative;
+    top: 120px;
+    left: -490px;
+}
+
+input::-webkit-input-placeholder {
+    color: #fefdff;
+}
+
+.pdrad {
+    position: relative;
+    left: -480px;
+    top: 250px;
+}
+
+
